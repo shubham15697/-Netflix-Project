@@ -1,1 +1,1 @@
-# -Netflix-Project
+This project represents a template for what a Netflix OSS project should look like. We're striving for a pure Gradle build, instead of taking a consolidated plugin approach, as we would internally. This will maintain each project's isolation and keep the build as transparent as possible to the outside world. While at the same time we want to be able to push out build updates in a predictable fashion.
